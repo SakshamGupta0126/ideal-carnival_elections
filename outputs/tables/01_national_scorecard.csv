@@ -1,0 +1,20 @@
+,value
+Total electors,834101479.0
+Total votes polled,553801801.0
+Overall VTR %,66.4
+Male VTR %,67.09
+Female VTR %,65.63
+Elector gender ratio (F per 1000 M),908.47
+Female share of votes %,47.05
+Total non-voters,280299678.0
+PCs analysed,543.0
+PCs where women out-voted men,165.0
+PC median VTR %,66.72
+PC mean VTR %,67.27
+PC std dev of VTR (pp),10.29
+PC coefficient of variation %,15.3
+Low-turnout PC share (<60%) %,27.81
+Very-low-turnout PC share (<50%) %,1.84
+High-turnout PC share (>=75%) %,26.89
+"Corr(PC size, VTR)",-0.45
+"Corr(gender gap, VTR)",-0.21
